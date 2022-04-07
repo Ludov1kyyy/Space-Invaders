@@ -1,3 +1,5 @@
+# Space Invaders by @Ludov1kyyy
+
 import pygame
 from sys import exit
 from time import perf_counter
