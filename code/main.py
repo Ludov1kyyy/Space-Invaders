@@ -1,4 +1,4 @@
-# Space Invaders by @Ludov1kyyy
+# Space Invaders by @Ludov1kyyyy
 
 import pygame
 from sys import exit
